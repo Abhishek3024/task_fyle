@@ -6,3 +6,5 @@ Actually the quiz application having following technologies used:
     (a) Reactjs of ^16.8.3 version
     (b) react-bootstrap of ^1.0.0-beta.5
     (c) Get depolyed on heroku network at http://warm-peak-41621.herokuapp.com/
+    (d) Lodash is is used to shuffle the options in questions. 
+    (e) rejex is used to decode the encoded unicodes into simple english text and characters. 
